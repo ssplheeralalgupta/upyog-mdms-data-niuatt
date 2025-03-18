@@ -5298,7 +5298,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.Budget Group.createBudgetGroup_Master"
+      "path": "Finance.Budget and Controls.Budget Group.createBudgetGroup_Master"
     },
     {
       "id": 1756,
@@ -5312,7 +5312,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.Budget Group.viewBudgetGroup_Master"
+      "path": "Finance.Budget and Controls.Budget Group.viewBudgetGroup_Master"
     },
     {
       "id": 1757,
@@ -5326,7 +5326,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.Budget Group.updateBudgetGroup_Master"
+      "path": "Finance.Budget and Controls.Budget Group.updateBudgetGroup_Master"
     },
     {
       "id": 1758,
@@ -5340,7 +5340,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.Budget Definition.createBudgetDefinition_Master"
+      "path": "Finance.Budget and Controls.Budget Definition.createBudgetDefinition_Master"
     },
     {
       "id": 1759,
@@ -5354,7 +5354,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.Budget Definition.viewBudgetDefinition_Master"
+      "path": "Finance.Budget and Controls.Budget Definition.viewBudgetDefinition_Master"
     },
     {
       "id": 1760,
@@ -5368,7 +5368,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.Budget Definition.updateBudgetDefinition_Master"
+      "path": "Finance.Budget and Controls.Budget Definition.updateBudgetDefinition_Master"
     },
     {
       "id": 1761,
@@ -5382,7 +5382,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.Budget Additional Appropriation"
+      "path": "Finance.Budget and Controls.Budget Additional Appropriation"
     },
     {
       "id": 1762,
@@ -5396,7 +5396,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.uploadBudgetMaster"
+      "path": "Finance.Budget and Controls.uploadBudgetMaster"
     },
     {
       "id": 1763,
@@ -5410,7 +5410,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.approveBudgetMaster"
+      "path": "Finance.Budget and Controls.approveBudgetMaster"
     },
     {
       "id": 1764,
@@ -5424,7 +5424,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.searchBudgetMaster"
+      "path": "Finance.Budget and Controls.searchBudgetMaster"
     },
     {
       "id": 1765,
