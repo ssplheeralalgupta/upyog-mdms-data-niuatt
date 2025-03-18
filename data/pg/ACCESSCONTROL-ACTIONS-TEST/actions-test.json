@@ -3498,7 +3498,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Accounting Records.Bank book",
+      "path": "Finance.Report Generation.Accounting Records.Bank book",
       "navigationURL": "services/EGF/report/bankBookReport.action"
     },
     {
@@ -3512,7 +3512,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.MIS Reports.Cheque Issue Register",
+      "path": "Finance.Report Generation.MIS Reports.Cheque Issue Register",
       "navigationURL": "services/EGF/report/chequeIssueRegisterReport.action"
     },
     {
@@ -3652,7 +3652,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.MIS Reports.Voucher Status Report",
+      "path": "Finance.Report Generation.MIS Reports.Voucher Status Report",
       "navigationURL": "services/EGF/report/voucherStatusReport-beforeSearch.action"
     },
     {
@@ -3890,7 +3890,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Accounting Records.Trial Balance",
+      "path": "Finance.Report Generation.Accounting Records.Trial Balance",
       "navigationURL": "services/EGF/report/trialBalance-newForm.action"
     },
     {
@@ -3918,7 +3918,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.MIS Reports.Bill Register Detailed Report",
+      "path": "Finance.Report Generation.MIS Reports.Bill Register Detailed Report",
       "navigationURL": "services/EGF/report/billRegisterReport-searchform.action"
     },
     {
@@ -3932,7 +3932,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.MIS Reports.Bank Advice Report(RTGS)",
+      "path": "Finance.Report Generation.MIS Reports.Bank Advice Report(RTGS)",
       "navigationURL": "services/EGF/report/bankAdviceReport-newForm.action"
     },
     {
@@ -3974,7 +3974,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.MIS Reports.RTGS Register",
+      "path": "Finance.Report Generation.MIS Reports.RTGS Register",
       "navigationURL": "services/EGF/report/rtgsIssueRegisterReport-newForm.action"
     },
     {
@@ -3988,7 +3988,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Accounting Records.General Ledger",
+      "path": "Finance.Report Generation.Accounting Records.General Ledger",
       "navigationURL": "services/EGF/report/generalLedgerReport-newForm.action"
     },
     {
@@ -4002,7 +4002,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Accounting Records.Subledger Schedule",
+      "path": "Finance.Report Generation.Accounting Records.Subledger Schedule",
       "navigationURL": "services/EGF/report/subLedgerScheduleReport-newForm.action"
     },
     {
@@ -4016,7 +4016,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Accounting Records.Sub Ledger",
+      "path": "Finance.Report Generation.Accounting Records.Sub Ledger",
       "navigationURL": "services/EGF/report/subLedgerReport-newForm.action"
     },
     {
@@ -4030,7 +4030,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Accounting Records.Day Book",
+      "path": "Finance.Report Generation.Accounting Records.Day Book",
       "navigationURL": "services/EGF/report/dayBookReport-newForm.action"
     },
     {
@@ -4044,7 +4044,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Accounting Records.Journal Book",
+      "path": "Finance.Report Generation.Accounting Records.Journal Book",
       "navigationURL": "services/EGF/report/journalBookReport-newForm.action"
     },
     {
@@ -4058,7 +4058,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Accounting Records.Opening Balance",
+      "path": "Finance.Report Generation.Accounting Records.Opening Balance",
       "navigationURL": "services/EGF/report/openingBalanceReport-newForm.action"
     },
     {
@@ -5034,7 +5034,7 @@
       "code": "null",
       "navigationURL": "services/EGF/report/pendingTDSReport.action",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Deduction Reports.Remittance Pending "
+      "path": "Finance.Report Generation.Deduction Reports.Remittance Pending "
     },
     {
       "id": 1736,
@@ -5047,7 +5047,7 @@
       "code": "null",
       "navigationURL": "services/EGF/report/pendingTDSReport-summaryReport.action",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Deduction Reports.Deductions Summary "
+      "path": "Finance.Report Generation.Deduction Reports.Deductions Summary "
     },
     {
       "id": 1737,
@@ -5270,7 +5270,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Financial Statements.Income - Expenditures Statement"
+      "path": "Finance.Report Generation.Financial Statements.Income - Expenditures Statement"
     },
     {
       "id": 1754,
@@ -5284,7 +5284,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Financial Statements.Balance Sheet"
+      "path": "Finance.Report Generation.Financial Statements.Balance Sheet"
     },
     {
       "id": 1755,
@@ -5466,7 +5466,7 @@
       "enabled": true,
       "serviceCode": "FinanceReport",
       "code": "null",
-      "path": "Finance.Reports.Budget Reports.Departmentwise Budget",
+      "path": "Finance.Report Generation.Budget Reports.Departmentwise Budget",
       "navigationURL": "services/EGF/budget/budgetReport-departmentWiseReport.action",
       "leftIcon": "editor:insert-chart"
     },
@@ -5480,7 +5480,7 @@
       "enabled": true,
       "serviceCode": "FinanceReport",
       "code": "null",
-      "path": "Finance.Reports.Budget Reports.Functionwise Budget",
+      "path": "Finance.Report Generation.Budget Reports.Functionwise Budget",
       "navigationURL": "services/EGF/budget/budgetReport-functionwise.action",
       "leftIcon": "editor:insert-chart"
     },
@@ -5494,7 +5494,7 @@
       "enabled": true,
       "serviceCode": "FinanceReport",
       "code": "null",
-      "path": "Finance.Reports.Budget Reports.Budget Watch Register",
+      "path": "Finance.Report Generation.Budget Reports.Budget Watch Register",
       "navigationURL": "services/EGF/report/budgetAppropriationRegisterReport.action",
       "leftIcon": "editor:insert-chart"
     },
@@ -5508,7 +5508,7 @@
       "enabled": true,
       "serviceCode": "FinanceReport",
       "code": "null",
-      "path": "Finance.Reports.Budget Reports.Budget Variance Report",
+      "path": "Finance.Report Generation.Budget Reports.Budget Variance Report",
       "navigationURL": "services/EGF/report/budgetVarianceReport.action",
       "leftIcon": "editor:insert-chart"
     },
@@ -5522,7 +5522,7 @@
       "enabled": true,
       "serviceCode": "FinanceReport",
       "code": "null",
-      "path": "Finance.Reports.Budget Reports.Budget Upload Report",
+      "path": "Finance.Report Generation.Budget Reports.Budget Upload Report",
       "navigationURL": "services/EGF/budgetuploadreport/search",
       "leftIcon": "editor:insert-chart"
     },
@@ -7748,7 +7748,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.MIS Reports.Surrendered Cheque",
+      "path": "Finance.Report Generation.MIS Reports.Surrendered Cheque",
       "navigationURL": "services/EGF/report/cheque/surrendered/form"
     },
     {
@@ -7958,7 +7958,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Revenue Reports.Remittance Collection Report",
+      "path": "Finance.Report Generation.Revenue Reports.Remittance Collection Report",
       "navigationURL": "services/EGF/report/remittance/collection/form"
     },
     {
@@ -8002,7 +8002,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.MIS Reports.Dishonored Cheque Report",
+      "path": "Finance.Report Generation.MIS Reports.Dishonored Cheque Report",
       "navigationURL": "services/collection/report/dishonouredcheque/searchform"
     },
     {
@@ -8016,7 +8016,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Revenue Reports.Remittance Pending Report",
+      "path": "Finance.Report Generation.Revenue Reports.Remittance Pending Report",
       "navigationURL": "services/EGF/report/remittance/pending/form"
     },
     {
