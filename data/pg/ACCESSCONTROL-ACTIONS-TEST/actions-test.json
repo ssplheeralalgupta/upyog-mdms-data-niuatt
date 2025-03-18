@@ -4899,7 +4899,7 @@
       "navigationURL": "services/EGF/purchaseorder/newform",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Purchase Order.Create Purchase Order"
+      "path": "Finance.Expenditure Accounting.Purchase Order.Create Purchase Order"
     },
     {
       "id": 1726,
@@ -4913,7 +4913,7 @@
       "navigationURL": "services/EGF/purchaseorder/search/view",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Purchase Order.View Purchase Order"
+      "path": "Finance.Expenditure Accounting.Purchase Order.View Purchase Order"
     },
     {
       "id": 1727,
@@ -4927,7 +4927,7 @@
       "navigationURL": "services/EGF/purchaseorder/search/edit",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Purchase Order.Modify Purchase Order"
+      "path": "Finance.Expenditure Accounting.Purchase Order.Modify Purchase Order"
     },
     {
       "id": 1728,
@@ -4981,7 +4981,7 @@
       "navigationURL": "services/EGF/workorder/newform",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Work Order.Create Work Order"
+      "path": "Finance.Expenditure Accounting.Work Order.Create Work Order"
     },
     {
       "id": 1732,
@@ -4995,7 +4995,7 @@
       "navigationURL": "services/EGF/workorder/search/view",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Work Order.View Work Order"
+      "path": "Finance.Expenditure Accounting.Work Order.View Work Order"
     },
     {
       "id": 1733,
@@ -5009,7 +5009,7 @@
       "navigationURL": "services/EGF/workorder/search/edit",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Work Order.Modify Work Order"
+      "path": "Finance.Expenditure Accounting.Work Order.Modify Work Order"
     },
     {
       "id": 1734,
