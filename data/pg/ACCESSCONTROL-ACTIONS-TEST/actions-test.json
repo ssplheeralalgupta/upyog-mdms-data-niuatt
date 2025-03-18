@@ -4518,7 +4518,7 @@
       "code": "null",
       "navigationURL": "services/collection/receipts/receipt-newform.action?Receipt=Misc#no-back-button",
       "leftIcon": "image:collections",
-      "path": "Finance.Revenue/Collections.Miscellaneous Receipts"
+      "path": "Finance.Revenue Accounting.Miscellaneous Receipts"
     },
     {
       "id": 1692,
@@ -4544,7 +4544,7 @@
       "code": "null",
       "navigationURL": "services/collection/receipts/searchReceipt.action",
       "leftIcon": "image:collections",
-      "path": "Finance.Revenue/Collections.Search Receipts"
+      "path": "Finance.Revenue Accounting.Search Receipts"
     },
     {
       "id": 1694,
@@ -4606,7 +4606,7 @@
       "code": "null",
       "navigationURL": "services/collection/receipts/bankRemittance-newform.action",
       "leftIcon": "image:collections",
-      "path": "Finance.Revenue/Collections.Cash Remittance"
+      "path": "Finance.Revenue Accounting.Cash Remittance"
     },
     {
       "id": 1699,
@@ -4643,7 +4643,7 @@
       "code": "null",
       "navigationURL": "services/collection/receipts/chequeRemittance-newform.action",
       "leftIcon": "image:collections",
-      "path": "Finance.Revenue/Collections.Cheque Remittance"
+      "path": "Finance.Revenue Accounting.Cheque Remittance"
     },
     {
       "id": 1704,
