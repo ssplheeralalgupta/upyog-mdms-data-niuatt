@@ -3428,7 +3428,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Financial Year",
+      "path": "Finance.Year End Activities.Financial Year",
       "navigationURL": "services/EGF/HTML/FinancialYearEnq.htm"
     },
     {
@@ -4296,7 +4296,7 @@
       "serviceCode": "FinanceAdmin",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Opening Balance Entry",
+      "path": "Finance.Year End Activities.Opening Balance Entry",
       "navigationURL": "services/EGF/transactionsummary/new"
     },
     {
@@ -5779,7 +5779,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Transfer Closing Balance",
+      "path": "Finance.Year End Activities.Transfer Closing Balance",
       "navigationURL": "services/EGF/pea/transferClosingBalance-new.action"
     },
     {
@@ -5793,7 +5793,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Close Period",
+      "path": "Finance.Year End Activities.Close Period",
       "navigationURL": "services/EGF/closedperiod/search/edit"
     },
     {
@@ -6705,7 +6705,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Close Financial Year",
+      "path": "Finance.Year End Activities.Close Financial Year",
       "navigationURL": "services/EGF/cfinancialyear/search/close"
     },
     {
@@ -6956,7 +6956,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Close Period",
+      "path": "Finance.Year End Activities.Close Period",
       "navigationURL": "services/EGF/closedperiod/search/view"
     },
     {
@@ -7888,7 +7888,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Close Period",
+      "path": "Finance.Year End Activities.Close Period",
       "navigationURL": "services/EGF/closedperiod/search/reopen"
     },
     {
