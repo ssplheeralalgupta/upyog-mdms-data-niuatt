@@ -5751,7 +5751,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Financial Year.View Financial Year",
+      "path": "Finance.Masters.Financial Year.View Financial Year",
       "navigationURL": "services/EGF/cfinancialyear/search/view"
     },
     {
@@ -5765,7 +5765,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Financial Year.Edit Financial Year",
+      "path": "Finance.Masters.Financial Year.Edit Financial Year",
       "navigationURL": "services/EGF/cfinancialyear/search/edit"
     },
     {
@@ -5807,7 +5807,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Financial Year.Create Financial Year",
+      "path": "Finance.Masters.Financial Year.Create Financial Year",
       "navigationURL": "services/EGF/cfinancialyear/new"
     },
     {
