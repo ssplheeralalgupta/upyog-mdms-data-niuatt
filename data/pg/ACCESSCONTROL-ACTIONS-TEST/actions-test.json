@@ -3387,7 +3387,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Bills Accounting.Expense Bill"
+      "path": "Finance.Expenditure Accounting.Bills Accounting.Expense Bill"
     },
     {
       "id": 1610,
@@ -3400,7 +3400,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Bills Accounting.Create Voucher",
+      "path": "Finance.Expenditure Accounting.Bills Accounting.Create Voucher",
       "navigationURL": "services/EGF/voucher/billVoucher-newForm.action"
     },
     {
@@ -3442,7 +3442,7 @@
       "serviceCode": "FinancePayment",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Payments.Direct Bank Payments",
+      "path": "Finance.Expenditure Accounting.Payments.Direct Bank Payments",
       "navigationURL": "services/EGF/payment/directBankPayment-newform.action"
     },
     {
@@ -3456,7 +3456,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Journal Voucher",
+      "path": "Finance.Expenditure Accounting.Journal Voucher",
       "navigationURL": "services/EGF/voucher/journalVoucher-newForm.action"
     },
     {
@@ -3526,7 +3526,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Bills Accounting.View Bills",
+      "path": "Finance.Expenditure Accounting.Bills Accounting.View Bills",
       "navigationURL": "services/EGF/bill/billRegisterSearch-newform.action"
     },
     {
@@ -3680,7 +3680,7 @@
       "serviceCode": "FinancePayment",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Payments.RTGS Assignment",
+      "path": "Finance.Expenditure Accounting.Payments.RTGS Assignment",
       "navigationURL": "services/EGF/payment/chequeAssignment-beforeRtgsSearch.action"
     },
     {
@@ -3694,7 +3694,7 @@
       "serviceCode": "FinanceGeneral",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.View Vouchers",
+      "path": "Finance.Expenditure Accounting.View Vouchers",
       "navigationURL": "services/EGF/voucher/voucherSearch-beforesearch.action"
     },
     {
@@ -3708,7 +3708,7 @@
       "serviceCode": "FinancePayment",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Payments.Bill Payment",
+      "path": "Finance.Expenditure Accounting.Payments.Bill Payment",
       "navigationURL": "services/EGF/payment/payment-beforeSearch.action"
     },
     {
@@ -3722,7 +3722,7 @@
       "serviceCode": "FinancePayment",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Payments.Cheque Assignment",
+      "path": "Finance.Expenditure Accounting.Payments.Cheque Assignment",
       "navigationURL": "services/EGF/payment/chequeAssignment-beforeSearch.action"
     },
     {
@@ -3736,7 +3736,7 @@
       "serviceCode": "FinancePayment",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Payments.Surrender/Reassign Cheque",
+      "path": "Finance.Expenditure Accounting.Payments.Surrender/Reassign Cheque",
       "navigationURL": "services/EGF/payment/chequeAssignment-beforeSearchForSurrender.action"
     },
     {
@@ -4072,7 +4072,7 @@
       "serviceCode": "FinancePayment",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Payments.Surrender RTGS",
+      "path": "Finance.Expenditure Accounting.Payments.Surrender RTGS",
       "navigationURL": "services/EGF/payment/chequeAssignment-beforeSearchForRTGSSurrender.action"
     },
     {
@@ -4847,7 +4847,7 @@
       "navigationURL": "services/EGF/deduction/remitRecovery-newform.action",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Deductions.Deduction Payments"
+      "path": "Finance.Expenditure Accounting.Deductions.Deduction Payments"
     },
     {
       "id": 1722,
@@ -4874,7 +4874,7 @@
       "navigationURL": "services/EGF/payment/chequeAssignment-beforeSearchForRemittance.action",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Deductions.Deductions Cheque Assignment"
+      "path": "Finance.Expenditure Accounting.Deductions.Deductions Cheque Assignment"
     },
     {
       "id": 1724,
@@ -5150,7 +5150,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Bills Accounting.Contractor Bill"
+      "path": "Finance.Expenditure Accounting.Bills Accounting.Contractor Bill"
     },
     {
       "id": 1745,
@@ -5164,7 +5164,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Bills Accounting.Supplier Bill"
+      "path": "Finance.Expenditure Accounting.Bills Accounting.Supplier Bill"
     },
     {
       "id": 1746,
@@ -5190,7 +5190,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Contra Entries.Bank to Bank Transfer"
+      "path": "Finance.Expenditure Accounting.Contra Entries.Bank to Bank Transfer"
     },
     {
       "id": 1748,
@@ -6284,7 +6284,7 @@
       "navigationURL": "services/EGF/payment/chequeAssignment-beforeRemittanceRtgsSearch.action",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Deductions.Deductions RTGS Assignment"
+      "path": "Finance.Expenditure Accounting.Deductions.Deductions RTGS Assignment"
     },
     {
       "id": 1837,
@@ -6298,7 +6298,7 @@
       "serviceCode": "FinanceReconcile",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Bank Reconciliation.Reconcile with Bank-Manual"
+      "path": "Finance.Expenditure Accounting.Bank Reconciliation.Reconcile with Bank-Manual"
     },
     {
       "id": 1838,
@@ -6312,7 +6312,7 @@
       "serviceCode": "FinanceReconcile",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Bank Reconciliation.Bank Statement Entries - Not In Bank Book"
+      "path": "Finance.Expenditure Accounting.Bank Reconciliation.Bank Statement Entries - Not In Bank Book"
     },
     {
       "id": 1839,
@@ -6326,7 +6326,7 @@
       "serviceCode": "FinanceReconcile",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Bank Reconciliation.Reconciliation Summary Report"
+      "path": "Finance.Expenditure Accounting.Bank Reconciliation.Reconciliation Summary Report"
     },
     {
       "id": 1840,
@@ -6629,7 +6629,7 @@
       "serviceCode": "FinanceReconcile",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Bank Reconciliation.Auto reconcile Statement Upload"
+      "path": "Finance.Expenditure Accounting.Bank Reconciliation.Auto reconcile Statement Upload"
     },
     {
       "id": 1868,
@@ -6643,7 +6643,7 @@
       "serviceCode": "FinanceReconcile",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Bank Reconciliation.Reconcile Uploaded Statement"
+      "path": "Finance.Expenditure Accounting.Bank Reconciliation.Reconcile Uploaded Statement"
     },
     {
       "id": 1869,
@@ -6681,7 +6681,7 @@
       "serviceCode": "FinanceReconcile",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Bank Reconciliation.View Bank Statement Uploaded Files"
+      "path": "Finance.Expenditure Accounting.Bank Reconciliation.View Bank Statement Uploaded Files"
     },
     {
       "id": 1872,
