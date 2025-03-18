@@ -4657,7 +4657,7 @@
       "code": "null",
       "navigationURL": "services/collection/service/serviceTypeToBankAccountMapping-newform.action",
       "leftIcon": "image:collections",
-      "path": "Finance.Set-up.Create Bankaccount Mapping"
+      "path": "Finance.Masters.Bank Account Mapping.Create Bankaccount Mapping"
     },
     {
       "id": 1705,
@@ -4671,7 +4671,7 @@
       "code": "null",
       "navigationURL": "services/collection/service/serviceTypeToBankAccountMapping-list.action",
       "leftIcon": "image:collections",
-      "path": "Finance.Set-up.View Bankaccount Mapping"
+      "path": "Finance.Masters.Bank Account Mapping.View Bankaccount Mapping"
     },
     {
       "id": 1706,
@@ -5438,7 +5438,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Set-up.Budget Control Type.Create/Update-Budget Control Type"
+      "path": "Finance.Masters.Budget Control Type.Create/Update-Budget Control Type"
     },
     {
       "id": 1766,
