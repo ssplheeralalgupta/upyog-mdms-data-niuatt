@@ -19475,7 +19475,7 @@
     },
     {
       "id": 2908,
-      "name": "Financial Bank to Bank Transfer",
+      "name": "Financial Inter Fund Transfer",
       "navigationURL": "services/EGF/grantsfund/newform.action",
       "url": "url",
       "parentModule": "EGF",
