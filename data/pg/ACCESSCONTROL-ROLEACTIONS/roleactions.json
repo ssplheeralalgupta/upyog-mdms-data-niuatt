@@ -30660,6 +30660,18 @@
       "actionid": 2908,
       "actioncode": "",
       "tenantId": "pg"
+    },
+   {
+      "rolecode": "SUPERUSER",
+      "actionid": 2909,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2909,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
