@@ -19497,7 +19497,7 @@
       "enabled": true,
       "serviceCode": "FinanceReport",
       "code": "null",
-      "path": "Finance.Reports.Budget Reports.ULB wise Budget",
+      "path": "Finance.Report Generation.Budget Reports.ULB wise Budget",
       "navigationURL": "services/EGF/budget/budgetReport-ulbWiseReport.action",
       "leftIcon": "editor:insert-chart"
     }
