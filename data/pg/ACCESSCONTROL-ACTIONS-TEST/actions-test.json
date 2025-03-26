@@ -5462,7 +5462,7 @@
       "url": "url",
       "parentModule": "EGF",
       "displayName": "Departmentwise Budget",
-      "orderNumber": 2,
+      "orderNumber": 1,
       "enabled": true,
       "serviceCode": "FinanceReport",
       "code": "null",
@@ -5476,7 +5476,7 @@
       "url": "url",
       "parentModule": "EGF",
       "displayName": "Functionwise Budget",
-      "orderNumber": 3,
+      "orderNumber": 2,
       "enabled": true,
       "serviceCode": "FinanceReport",
       "code": "null",
@@ -5490,7 +5490,7 @@
       "url": "url",
       "parentModule": "EGF",
       "displayName": "Budget Watch Register",
-      "orderNumber": 5,
+      "orderNumber": 3,
       "enabled": true,
       "serviceCode": "FinanceReport",
       "code": "null",
@@ -5518,7 +5518,7 @@
       "url": "url",
       "parentModule": "EGF",
       "displayName": "Budget Upload Report",
-      "orderNumber": 6,
+      "orderNumber": 5,
       "enabled": true,
       "serviceCode": "FinanceReport",
       "code": "null",
@@ -19335,20 +19335,7 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/ew-home"
-    },
-    {
-      "id": 2899,
-      "name": "ulbwiseBudgetReports_master",
-      "url": "url",
-      "parentModule": "EGF",
-      "displayName": "ULB wise Budget",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "FinanceReport",
-      "code": "null",
-      "path": "Finance.Reports.Budget Reports.ULB wise Budget",
-      "navigationURL": "services/EGF/budget/budgetReport-ulbWiseReport.action",
-      "leftIcon": "editor:insert-chart"
     }
+    
   ]
 }
