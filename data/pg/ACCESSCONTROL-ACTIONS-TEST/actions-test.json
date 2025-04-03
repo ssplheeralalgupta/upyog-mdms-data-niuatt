@@ -19500,6 +19500,20 @@
       "path": "Finance.Report Generation.Budget Reports.ULB wise Budget",
       "navigationURL": "services/EGF/budget/budgetReport-ulbWiseReport.action",
       "leftIcon": "editor:insert-chart"
+    },
+	  {
+      "id": 2910,
+      "name": "Financial Year-SetUp By Date Range",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Close Financial Year By Date Range",
+      "orderNumber": 5,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Year End Activities.Close Financial Year",
+      "navigationURL": "services/EGF/cfinancialyear/search/close"
     }
   ]
 }
