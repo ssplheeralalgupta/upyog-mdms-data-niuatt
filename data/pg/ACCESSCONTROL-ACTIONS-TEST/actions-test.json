@@ -18676,7 +18676,7 @@
       "url": "/employee-dashboard/_search",
       "displayName": "Employee City Dashboard",
       "orderNumber": 3,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "employee-dashboard",
       "code": "null",
       "path": "",
