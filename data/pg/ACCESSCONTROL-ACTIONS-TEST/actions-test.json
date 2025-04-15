@@ -19513,7 +19513,7 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Year End Activities.Close Financial Year",
-      "navigationURL": "services/EGF/cfinancialyear/search/daterange"
+      "navigationURL": "services/EGF/cfinancialyear/search-date"
     }
   ]
 }
