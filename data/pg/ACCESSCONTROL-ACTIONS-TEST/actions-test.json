@@ -19517,7 +19517,7 @@
     },
 	  {
       "id": 2911,
-      "name": "Journal Voucher-Create",
+      "name": "Test Journal Voucher-Create",
       "url": "/services/EGF/voucher/journalVoucherform",
       "parentModule": "",
       "displayName": "Journal Voucher",
