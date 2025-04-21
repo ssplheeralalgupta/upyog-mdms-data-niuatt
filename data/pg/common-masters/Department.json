@@ -190,7 +190,7 @@
     {
       "name": "Tender Cell",
       "code": "DEPT_57",
-      "active": false
+      "active": true
     }
   ]
 }
