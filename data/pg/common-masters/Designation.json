@@ -171,6 +171,12 @@
       "active": true
     },
     {
+      "name": "Superintendent",
+      "description": "Superintendent,
+      "code": "AO",
+      "active": true
+    },
+    {
       "name": "Commissioner",
       "description": "Commissioner",
       "code": "COMM",
